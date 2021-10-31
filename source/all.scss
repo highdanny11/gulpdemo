@@ -1,0 +1,13 @@
+$primary:blue;
+$secondary:gray;
+
+body {
+  color: $primary;
+}
+.flowr {
+  color: $secondary;
+}
+.card {
+  transform:  rotate(120deg);
+  filter: blur(3px);
+}
