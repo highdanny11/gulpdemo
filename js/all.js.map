@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/all.js","js/gufile.js"],"names":["newFunction","fn"],"mappings":"aAAA,IAAIA,YAAc,aAGlBA,cCHA,IAAMC,GAAK,aAGXA","file":"all.js","sourcesContent":["let newFunction = () => {\n  console.log('大帥哥');\n}\nnewFunction();","const fn = () => {\n  console.log('1231412')\n}\nfn()"]}
